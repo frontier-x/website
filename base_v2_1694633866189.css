@@ -467,7 +467,7 @@ footer .logo-footer a{
 }
 .topnav {
   overflow: hidden;
-  background-color: #4790FC;
+  background-color: #79a7ed;
 }
 .topnav a {
   float: left;
@@ -478,12 +478,12 @@ footer .logo-footer a{
   font-size: 17px;
 }
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #1e6ce3;
   color: #4790FC;
 }
 .topnav a.active {
   background-color: #79a7ed;
-  color: white;
+  color: #4790FC;
 }
 @keyframes pulse{
     0%,100%{
