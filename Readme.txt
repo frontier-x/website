@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Built using the following bootstrapmade template:
 
 Template Name: Arsha
 Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
