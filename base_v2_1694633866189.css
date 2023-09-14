@@ -472,6 +472,7 @@ footer .logo-footer a{
 .topnav a {
   float: left;
   color: #4790FC;
+  display: block;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
